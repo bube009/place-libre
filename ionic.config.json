@@ -1,0 +1,8 @@
+{
+  "name": "Place libre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "31b2d872"
+}
